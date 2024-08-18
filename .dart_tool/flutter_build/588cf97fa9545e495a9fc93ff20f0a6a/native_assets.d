@@ -1,0 +1,1 @@
+ /Users/tamimhasan/IdeaProjects/ostad_batch_seven/live_test/.dart_tool/flutter_build/588cf97fa9545e495a9fc93ff20f0a6a/native_assets.yaml: 
